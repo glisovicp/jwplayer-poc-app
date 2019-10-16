@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">JW Player Demo Android App</string>
+
+    <string name="feature_not_supported">This feature is not supported by JW Player.</string>
+
+    <string name="bikerTitle">Biker</string>
+    <string name="bikerDescription">A video player testing video.</string>
+    <string name="bipbopTitle">BipBop</string>
+    <string name="bipbopDescription">A video player testing video 2.</string>
+    <string name="stream3Title">MP4 file</string>
+    <string name="stream3Description">A video player testing video 3.</string>
+    <string name="dashTitle">DASH with VMAP</string>
+    <string name="dashDescription">A video player testing video 4.</string>
+    <string name="ssTitle">SmoothStreaming</string>
+    <string name="ssDescription">A video player testing video 5.</string>
+
+    <string name="mediaRouteMenuTitle">Cast</string>
+
+    <!-- feature descriptions -->
+    <string name="subtitlesDescription">Note: WebVTT subtitles are not working at all.</string>
+    <string name="tapToScrupDescription">Note: There is option to go back 10 sec provided by JW Player only. There is no built-in +10 button control to go forward.</string>
+    <string name="drmSupportDescription">Note: According documentation JW Player has DRM support, but we could not test it because we did not have appropriate video file URL for test.</string>
+    <string name="freewheelAdsDescription">Note: According documentation JW Player supports Freewheel ads, but we could not test it because we did not have appropriate ads URL for test.</string>
+    <string name="playbackQualityDescription">Note: For bitrate, there is option to read value, but not to set new one.</string>
+    <string name="adsDescription">Note: According documentation JW Player supports various types of ads (VAST, IMA, Freewheel), but for some reason they do not work.</string>
+</resources>

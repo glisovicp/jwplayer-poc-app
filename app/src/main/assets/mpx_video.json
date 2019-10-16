@@ -1,0 +1,304 @@
+{
+  "$xmlns": {
+    "dcterms": "http://purl.org/dc/terms/",
+    "media": "http://search.yahoo.com/mrss/",
+    "talpa": "http://www.talpanetwork.com",
+    "pl": "http://xml.theplatform.com/data/object",
+    "pla": "http://xml.theplatform.com/data/object/admin",
+    "pllisting": "http://xml.theplatform.com/entertainment/data/Listing",
+    "plprogram": "http://xml.theplatform.com/entertainment/data/Program",
+    "plprogramavailability": "http://xml.theplatform.com/entertainment/data/ProgramAvailability",
+    "plmedia": "http://xml.theplatform.com/media/data/Media",
+    "plfile": "http://xml.theplatform.com/media/data/MediaFile",
+    "plrelease": "http://xml.theplatform.com/media/data/Release"
+  },
+  "startIndex": 1,
+  "itemsPerPage": 100,
+  "entryCount": 2,
+  "title": "All Programs Feed - DONT TOUCH!",
+  "entries": [
+    {
+      "id": "http://data.entertainment.tv.theplatform.eu/entertainment/data/ProgramAvailability/113145896009",
+      "guid": "wnpmiBb5V8Z",
+      "updated": 1569329396000,
+      "title": "Grenzeloos Verliefd",
+      "description": "",
+      "added": 1569329374000,
+      "plprogram$credits": [
+        
+      ],
+      "plprogram$displayGenre": "Reality",
+      "plprogram$imageMediaIds": [
+        
+      ],
+      "plprogram$lastPubDate": null,
+      "plprogram$longDescription": "",
+      "plprogram$programType": "series",
+      "plprogram$ratings": [
+        
+      ],
+      "plprogram$runtime": null,
+      "plprogram$secondaryTitle": null,
+      "plprogram$seriesEpisodeNumber": null,
+      "plprogram$seriesId": null,
+      "plprogram$seriesTvSeasons": [
+        {
+          "plprogram$guid": "gF4tes9Jvm2",
+          "plprogram$title": "",
+          "plprogram$id": "http://data.entertainment.tv.theplatform.eu/entertainment/data/TvSeason/113147431972",
+          "plprogram$startYear": 2019,
+          "plprogram$tvSeasonNumber": 11
+        }
+      ],
+      "plprogram$shortDescription": "",
+      "plprogram$shortTitle": "Grenzeloos Verliefd",
+      "plprogram$sortTitle": "Grenzeloos Verliefd",
+      "plprogram$tags": [
+        
+      ],
+      "plprogram$thumbnails": {
+        "Editorial_Landscape": {
+          "plprogram$url": "https://redactioneel.s3-eu-west-1.amazonaws.com/images/redactioneel/1088400-LS.jpg",
+          "plprogram$width": 1667,
+          "plprogram$height": 939,
+          "plprogram$title": "Editorial_Landscape",
+          "plprogram$assetTypes": [
+            
+          ]
+        }
+      },
+      "plprogram$tvSeasonEpisodeNumber": null,
+      "plprogram$tvSeasonId": null,
+      "plprogram$tvSeasonNumber": null,
+      "plprogramavailability$media": [
+        {
+          "pl$guid": "3kfdqEdN0A9",
+          "media$availableDate": 1569353351000,
+          "media$expirationDate": 1727728211000,
+          "media$content": [
+            {
+              "plfile$duration": 0.000,
+              "plfile$format": "WebVTT",
+              "plfile$assetTypes": [
+                "Closed Caption: Nederlands"
+              ],
+              "plfile$isProtected": false,
+              "plfile$releases": [
+                {
+                  "plrelease$pid": "_xCtYFXCJ_4I"
+                }
+              ],
+              "plfile$streamingUrl": "https://vod-kijk2-prod.talpatvcdn.nl/webvtt/756614E1.vtt",
+              "plfile$protectionScheme": ""
+            },
+            {
+              "plfile$duration": 0.000,
+              "plfile$format": "WebVTT",
+              "plfile$assetTypes": [
+                "Closed Caption: Doven en Slechthorenden"
+              ],
+              "plfile$isProtected": false,
+              "plfile$releases": [
+                {
+                  "plrelease$pid": "_r_HVWUdkXLG"
+                }
+              ],
+              "plfile$streamingUrl": "https://vod-kijk2-prod.talpatvcdn.nl/webvtt/756614E1OPE.vtt",
+              "plfile$protectionScheme": ""
+            },
+            {
+              "plfile$duration": 0.000,
+              "plfile$format": "M3U",
+              "plfile$assetTypes": [
+                "Packager Output: HLS Manifest public"
+              ],
+              "plfile$isProtected": false,
+              "plfile$releases": [
+                {
+                  "plrelease$pid": "lkfiKB3KMhOr"
+                }
+              ],
+              "plfile$streamingUrl": "https://vod-kijk2-prod.talpatvcdn.nl/3kfdqEdN0A9/2d44da1e-2afe-5503-9450-b1cf113fb808/756614E1-index.ism/756614E1.m3u8",
+              "plfile$protectionScheme": ""
+            },
+            {
+              "plfile$duration": 0.000,
+              "plfile$format": "ISM",
+              "plfile$assetTypes": [
+                "Packager Output: Smooth Manifest public"
+              ],
+              "plfile$isProtected": false,
+              "plfile$releases": [
+                {
+                  "plrelease$pid": "yNLKLO30Dz7_"
+                }
+              ],
+              "plfile$streamingUrl": "https://vod-kijk2-prod.talpatvcdn.nl/3kfdqEdN0A9/2d44da1e-2afe-5503-9450-b1cf113fb808/756614E1-index.ism/756614E1.ismc",
+              "plfile$protectionScheme": ""
+            },
+            {
+              "plfile$duration": 0.000,
+              "plfile$format": "MPEG-DASH",
+              "plfile$assetTypes": [
+                "Packager Output: MPEG DASH Manifest public"
+              ],
+              "plfile$isProtected": false,
+              "plfile$releases": [
+                {
+                  "plrelease$pid": "sB1tJ0dnTE00"
+                }
+              ],
+              "plfile$streamingUrl": "https://vod-kijk2-prod.talpatvcdn.nl/3kfdqEdN0A9/2d44da1e-2afe-5503-9450-b1cf113fb808/756614E1-index.ism/756614E1.mpd",
+              "plfile$protectionScheme": ""
+            }
+          ],
+          "plmedia$availabilityTags": [
+            "KIJK",
+            "FVOD",
+            "Net5"
+          ],
+          "plmedia$restrictionId": "",
+          "plmedia$programId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Program/113145895989",
+          "plmedia$availabilityState": "available",
+          "plmedia$publicUrl": "http://link.theplatform.eu/s/-9DGhC/media/ubhoNRjvFcAs"
+        }
+      ],
+      "talpa$episodeTitleGenerator": "Episode_Title",
+      "talpa$genreCode": "Overige"
+    },
+    {
+      "id": "http://data.entertainment.tv.theplatform.eu/entertainment/data/ProgramAvailability/113145895989",
+      "guid": "3kfdqEdN0A9",
+      "updated": 1569460844000,
+      "title": "undefined_E0000_undefined",
+      "description": "In Grenzeloos Verliefd emigreren Nederlandse vrouwen naar hun liefde in het buitenland. Ze volgen hun hart, laten alles achter en moeten in het vreemde land zien te wennen aan een heel andere cultuur. Als Kim een festival in de Zuid-Afrikaanse woestijn bezoekt, ontmoet ze Patrick. Al snel blijkt dat het meer is dan een vakantieflirt. Kim besluit daarom haar droomappartement en -baan in Amsterdam op te geven voor een leven met Patrick. Patrick is weliswaar regelmatig voor zijn werk in het buitenland, maar dat vindt Kim geen probleem. Het stel wil namelijk een B&B gaan runnen, dus voor Kim zal er afleiding genoeg zijn. Maar al snel komen ze tot de conclusie dat het inrichten en onderhouden van een B&B veel meer werk is dan verwacht.",
+      "added": 1569329158000,
+      "plprogram$credits": [
+        
+      ],
+      "plprogram$displayGenre": "Reality",
+      "plprogram$imageMediaIds": [
+        
+      ],
+      "plprogram$lastPubDate": "2019-09-24",
+      "plprogram$longDescription": "In Grenzeloos Verliefd emigreren Nederlandse vrouwen naar hun liefde in het buitenland. Ze volgen hun hart, laten alles achter en moeten in het vreemde land zien te wennen aan een heel andere cultuur. Als Kim een festival in de Zuid-Afrikaanse woestijn bezoekt, ontmoet ze Patrick. Al snel blijkt dat het meer is dan een vakantieflirt. Kim besluit daarom haar droomappartement en -baan in Amsterdam op te geven voor een leven met Patrick. Patrick is weliswaar regelmatig voor zijn werk in het buitenland, maar dat vindt Kim geen probleem. Het stel wil namelijk een B&B gaan runnen, dus voor Kim zal er afleiding genoeg zijn. Maar al snel komen ze tot de conclusie dat het inrichten en onderhouden van een B&B veel meer werk is dan verwacht.",
+      "plprogram$programType": "episode",
+      "plprogram$ratings": [
+        
+      ],
+      "plprogram$runtime": null,
+      "plprogram$secondaryTitle": null,
+      "plprogram$seriesEpisodeNumber": 95,
+      "plprogram$seriesId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Program/guid/2707491435/wnpmiBb5V8Z",
+      "plprogram$seriesTvSeasons": [
+        
+      ],
+      "plprogram$shortDescription": "Als Kim een festival in Zuid-Afrika bezoekt ontmoet ze Patrick. Al snel blijkt dat het meer is dan een vakantieflirt. Kim besluit haar fijne leven in Amsterdam op te geven voor een leven met Patrick.",
+      "plprogram$shortTitle": null,
+      "plprogram$sortTitle": "undefined_E0000_undefined",
+      "plprogram$tags": [
+        
+      ],
+      "plprogram$thumbnails": {
+        
+      },
+      "plprogram$tvSeasonEpisodeNumber": 1,
+      "plprogram$tvSeasonId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/TvSeason/113147431972",
+      "plprogram$tvSeasonNumber": 11,
+      "plprogramavailability$media": [
+        {
+          "pl$guid": "3kfdqEdN0A9",
+          "media$availableDate": 1569353351000,
+          "media$expirationDate": 1727728211000,
+          "media$content": [
+            {
+              "plfile$duration": 0.000,
+              "plfile$format": "WebVTT",
+              "plfile$assetTypes": [
+                "Closed Caption: Nederlands"
+              ],
+              "plfile$isProtected": false,
+              "plfile$releases": [
+                {
+                  "plrelease$pid": "_xCtYFXCJ_4I"
+                }
+              ],
+              "plfile$streamingUrl": "https://vod-kijk2-prod.talpatvcdn.nl/webvtt/756614E1.vtt",
+              "plfile$protectionScheme": ""
+            },
+            {
+              "plfile$duration": 0.000,
+              "plfile$format": "WebVTT",
+              "plfile$assetTypes": [
+                "Closed Caption: Doven en Slechthorenden"
+              ],
+              "plfile$isProtected": false,
+              "plfile$releases": [
+                {
+                  "plrelease$pid": "_r_HVWUdkXLG"
+                }
+              ],
+              "plfile$streamingUrl": "https://vod-kijk2-prod.talpatvcdn.nl/webvtt/756614E1OPE.vtt",
+              "plfile$protectionScheme": ""
+            },
+            {
+              "plfile$duration": 0.000,
+              "plfile$format": "M3U",
+              "plfile$assetTypes": [
+                "Packager Output: HLS Manifest public"
+              ],
+              "plfile$isProtected": false,
+              "plfile$releases": [
+                {
+                  "plrelease$pid": "lkfiKB3KMhOr"
+                }
+              ],
+              "plfile$streamingUrl": "https://vod-kijk2-prod.talpatvcdn.nl/3kfdqEdN0A9/2d44da1e-2afe-5503-9450-b1cf113fb808/756614E1-index.ism/756614E1.m3u8",
+              "plfile$protectionScheme": ""
+            },
+            {
+              "plfile$duration": 0.000,
+              "plfile$format": "ISM",
+              "plfile$assetTypes": [
+                "Packager Output: Smooth Manifest public"
+              ],
+              "plfile$isProtected": false,
+              "plfile$releases": [
+                {
+                  "plrelease$pid": "yNLKLO30Dz7_"
+                }
+              ],
+              "plfile$streamingUrl": "https://vod-kijk2-prod.talpatvcdn.nl/3kfdqEdN0A9/2d44da1e-2afe-5503-9450-b1cf113fb808/756614E1-index.ism/756614E1.ismc",
+              "plfile$protectionScheme": ""
+            },
+            {
+              "plfile$duration": 0.000,
+              "plfile$format": "MPEG-DASH",
+              "plfile$assetTypes": [
+                "Packager Output: MPEG DASH Manifest public"
+              ],
+              "plfile$isProtected": false,
+              "plfile$releases": [
+                {
+                  "plrelease$pid": "sB1tJ0dnTE00"
+                }
+              ],
+              "plfile$streamingUrl": "https://vod-kijk2-prod.talpatvcdn.nl/3kfdqEdN0A9/2d44da1e-2afe-5503-9450-b1cf113fb808/756614E1-index.ism/756614E1.mpd",
+              "plfile$protectionScheme": ""
+            }
+          ],
+          "plmedia$availabilityTags": [
+            "KIJK",
+            "FVOD",
+            "Net5"
+          ],
+          "plmedia$restrictionId": "",
+          "plmedia$programId": "http://data.entertainment.tv.theplatform.eu/entertainment/data/Program/113145895989",
+          "plmedia$availabilityState": "available",
+          "plmedia$publicUrl": "http://link.theplatform.eu/s/-9DGhC/media/ubhoNRjvFcAs"
+        }
+      ],
+      "talpa$genreCode": "Overige"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+1
+00:00:01,600 --> 00:00:04,200
+French
+
+2
+00:00:05,900 --> 00:00:07,999
+Il s'agit d'un sous-titre en français
+
+3
+00:00:10,000 --> 00:00:14,000
+Ajout de sous-titres est très facile à faire

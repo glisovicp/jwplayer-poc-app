@@ -1,0 +1,48 @@
+{
+  "width": "100%",
+  "height": "100%",
+  "licenseKey": "h1512my\/+AaRpey6yrEwFo7HzkH5gQwqKLRW6eR7Y5nCZ9iU",
+  "stretching": "uniform",
+  "autostart": true,
+  "mute": true,
+  "cast": {
+    
+  },
+  "nextupoffset": -10,
+  "nextUpDisplay": true,
+  "liveTimeout": 30,
+  "autoPause": {
+    "viewability": true
+  },
+  "logo": {
+    "file": "\/assets\/jw-logo-red-46px.png",
+    "link": "https:\/\/www.jwplayer.com",
+    "position": "top-left",
+    "hide": true
+  },
+  "advertising": {
+    "admessage": "",
+    "client": "freewheel",
+    "cuetext": "Advertentie",
+    "vpaidcontrols": true,
+    "freewheel": {
+      "serverid": "https:\/\/7b935.v.fwmrm.net\/ad\/p\/1",
+      "sectionid": "sbs_sbs6_android_app",
+      "networkid": 506166,
+      "profileid": "506166:sanoma_sbs_android_live"
+    }
+  },
+  "skin": {
+    "name": "kijk-app",
+    "url": "https:\/\/static.talpanetwork.com\/dev\/apps\/jwplayer\/talpa-jw-player.css"
+  },
+  "metadata": {
+    "player_channel": "embedded_3p",
+    "player_channelid": "embedded_3p",
+    "player_id": "embedded_3p",
+    "player_name": "jwplayer",
+    "player_source": "embedded_3p",
+    "player_version": "8.2.4",
+    "c_media_partner": "embedded3p"
+  }
+}
